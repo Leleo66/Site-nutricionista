@@ -1,7 +1,7 @@
-# Site-nutricionista
+# Site nutricionista
 
-<site desenvolvido no intuito de treinar JavaScript
+> Status do projeto: concluido.
 
-´´´
-status: completo.
-´´´
+Desenvolvido no intuito de estudar JavaScript
+
+:)
